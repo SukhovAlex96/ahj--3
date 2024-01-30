@@ -5,6 +5,13 @@
   padding-top: 15px;
 }
 
+.controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 15px;
+}
+
 .btn {
   cursor: pointer;
 }
